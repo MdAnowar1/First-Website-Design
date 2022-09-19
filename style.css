@@ -16,18 +16,47 @@ h1{
     width: 50%;
 
 }
-.first-design,image{
+.image-design{
     width: 80%;
+    size: 5px;
 }
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     color: white;
     font-weight: 700;
-    padding: 10px, 40px;
-    border-radius: 4px;
+    padding: 10px 40px;
+    border-radius: 5px;
 }
 .top-banner{
 background-image: url(images/top-banner.png);
 background-repeat: no-repeat;
+}
+.link-button-two{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 4px;
+}
+.second-design{
+    padding-right: 50px;
+    padding-left: 60px;
+    width: 50%;
+}
+.top-banner-two{
+    padding-top: 200px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.text-size{
+    font-size: 20px;
+    padding-right: 40px;
+}
+.text-size-two{
+    font-size: 20px;
+}
+.image-two{
+    width: 50%;
 }
